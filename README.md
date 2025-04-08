@@ -1,0 +1,2 @@
+# altin
+altın takip grafiğidir
